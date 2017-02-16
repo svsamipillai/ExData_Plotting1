@@ -3,7 +3,7 @@
 
 1. Download the power consumption dataset from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 
-2. Place it at the root folder level.
+2. Unzip the document and move the .txt file to the root folder level,
 
 3. Run the scripts in the following order
 
